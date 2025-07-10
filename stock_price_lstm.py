@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error
 
 # Load stock data
 ticker = "AAPL"
-df = yf.download(ticker, start="2020-01-01", end="2023-01-01")
+df = yf.download("AAPL", start="2018-01-01", end="2023-01-01"
 data = df[['Close']].dropna()
 
 # Normalize
