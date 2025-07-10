@@ -42,7 +42,8 @@ python stock_price_lstm.py
 
 > The graph below shows how the model tracks historical trends:
 
-![Stock Prediction](stock_prediction.png)
+![Stock Prediction](![stock prediction download](https://github.com/user-attachments/assets/05590663-ace3-4b66-a9ca-af1da29493ed)
+)
 
 ---
 
